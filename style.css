@@ -1,0 +1,23 @@
+textarea {
+    resize: none;
+}
+#box {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+#chat-box {
+    width: 100%;
+    height: 450px;
+    background-color: #8899ac;
+    padding: 15px;
+}
+#online {
+    width: 100%;
+    height: 450px;
+    background-color: #22303c;
+    padding: 15px;
+}
+.form-envio-mensagem {
+    margin-top: 10px;
+}
